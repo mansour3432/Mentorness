@@ -28,8 +28,7 @@ To explore the analysis and findings:
 
 Contributors
 
-    [Ahmed Mansour]
-    [Mentorness]
+    [Ahmed Mansour]: Intern at Mentorness.
 
 Feedback and Contributions
 
