@@ -22,6 +22,9 @@ To access the video tutorial and related materials:
     Navigate to the Group-By-Statement-in-SQL branch of this repository.
     Review the contents of the branch, including the video tutorial and Presentation file.
 
-#### Feedback and Contributions
+### Contributors 
+    [Ahmed Mansour]: Intern at Mentorness.
+
+### Feedback and Contributions
 
 Feedback and contributions are welcome! If you have suggestions for improving the tutorial or spot any errors, please feel free to open an issue or submit a pull request.
