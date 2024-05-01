@@ -1,4 +1,4 @@
-# Task 1: Explaining the GROUP BY Statement in SQL with HAVING Clause
+# Explaining the GROUP BY Statement in SQL with HAVING Clause
 ## Overview
 
 This branch contains the work related to Task 1 assigned to the intern at Mentorness Company. The task involves creating a real video tutorial to explain the usage of the GROUP BY statement in SQL, with a focus on incorporating the HAVING clause.
